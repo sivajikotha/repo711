@@ -1,3 +1,4 @@
 something
 get-date
 get-service bits
+get-netadapter
